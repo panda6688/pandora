@@ -1,0 +1,365 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	289;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	292;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	295;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	311;"	d	file:
+BLACK	include/util/console.h	/^    BLACK,$/;"	e	enum:ConsoleColorType
+BLUE	include/util/console.h	/^    BLUE,$/;"	e	enum:ConsoleColorType
+CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/pt\/github\/Snake$/;"	m
+CMAKE_COMMAND	Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	Makefile	/^CMAKE_SOURCE_DIR = \/home\/pt\/github\/Snake$/;"	m
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	127;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	135;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	154;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	162;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	182;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	55;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	61;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	75;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	82;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	93;"	d	file:
+COMPILER_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	14;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	156;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	168;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	173;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	20;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	69;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	106;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	114;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	120;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	169;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	31;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	39;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	100;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	121;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	22;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+CONSOLE_H	include/util/console.h	2;"	d
+CYAN	include/util/console.h	/^    CYAN,$/;"	e	enum:ConsoleColorType
+Console	include/util/console.h	/^class Console {$/;"	c
+ConsoleColor	include/util/console.h	/^struct ConsoleColor {$/;"	s
+ConsoleColor	src/util/console.cpp	/^ConsoleColor::ConsoleColor(const ConsoleColorType foreColor_,$/;"	f	class:ConsoleColor
+ConsoleColorType	include/util/console.h	/^enum ConsoleColorType {$/;"	g
+DEC	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+DOWN	include/base/direction.h	/^    DOWN$/;"	e	enum:Direction
+Direction	include/base/direction.h	/^enum Direction {$/;"	g
+EMPTY	include/base/point.h	/^        EMPTY,$/;"	e	enum:Point::Type
+EMPTY_DIST	include/base/point.h	/^    static const ValueType EMPTY_DIST;$/;"	m	class:Point
+EMPTY_DIST	src/base/point.cpp	/^const Point::ValueType Point::EMPTY_DIST = 999999;$/;"	m	class:Point	file:
+EQUALS	Makefile	/^EQUALS = =$/;"	m
+FOOD	include/base/point.h	/^        FOOD,$/;"	e	enum:Point::Type
+GREEN	include/util/console.h	/^    GREEN,$/;"	e	enum:ConsoleColorType
+GameCtrl	include/gamectrl.h	/^class GameCtrl {$/;"	c
+GameCtrl	src/gamectrl.cpp	/^GameCtrl::GameCtrl() {}$/;"	f	class:GameCtrl
+HEX	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	326;"	d	file:
+LEFT	include/base/direction.h	/^    LEFT,$/;"	e	enum:Direction
+MAGENTA	include/util/console.h	/^    MAGENTA,$/;"	e	enum:ConsoleColorType
+MAP_INFO_FILENAME	include/gamectrl.h	/^    static const std::string MAP_INFO_FILENAME;$/;"	m	class:GameCtrl
+MAP_INFO_FILENAME	src/gamectrl.cpp	/^const string GameCtrl::MAP_INFO_FILENAME = "movements.txt";$/;"	m	class:GameCtrl	file:
+MAX_VALUE	include/base/point.h	/^    static const ValueType MAX_VALUE;$/;"	m	class:Point
+MAX_VALUE	src/base/point.cpp	/^const Point::ValueType Point::MAX_VALUE = UINT32_MAX;$/;"	m	class:Point	file:
+MSG_BAD_ALLOC	include/gamectrl.h	/^    static const std::string MSG_BAD_ALLOC;$/;"	m	class:GameCtrl
+MSG_BAD_ALLOC	src/gamectrl.cpp	/^const string GameCtrl::MSG_BAD_ALLOC = "Not enough memory to run the game.";$/;"	m	class:GameCtrl	file:
+MSG_ESC	include/gamectrl.h	/^    static const std::string MSG_ESC;$/;"	m	class:GameCtrl
+MSG_ESC	src/gamectrl.cpp	/^const string GameCtrl::MSG_ESC = "Game ended.";$/;"	m	class:GameCtrl	file:
+MSG_LOSE	include/gamectrl.h	/^    static const std::string MSG_LOSE;$/;"	m	class:GameCtrl
+MSG_LOSE	src/gamectrl.cpp	/^const string GameCtrl::MSG_LOSE = "Oops! You lose!";$/;"	m	class:GameCtrl	file:
+MSG_WIN	include/gamectrl.h	/^    static const std::string MSG_WIN;$/;"	m	class:GameCtrl
+MSG_WIN	src/gamectrl.cpp	/^const string GameCtrl::MSG_WIN = "Congratulations! You Win!";$/;"	m	class:GameCtrl	file:
+Map	include/base/map.h	/^class Map {$/;"	c
+Map	src/base/map.cpp	/^Map::Map(const SizeType rowCnt_, const SizeType colCnt_)$/;"	f	class:Map
+NONE	include/base/direction.h	/^    NONE,$/;"	e	enum:Direction
+OS_UNIX	include/util/console.h	12;"	d
+OS_WIN	include/util/console.h	8;"	d
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	203;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	206;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	209;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	218;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	236;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	245;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	251;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	263;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	266;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	269;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	272;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	275;"	d	file:
+PLATFORM_ID	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	278;"	d	file:
+Point	include/base/point.h	/^class Point {$/;"	c
+Point	src/base/point.cpp	/^Point::Point() {}$/;"	f	class:Point
+Pos	include/base/pos.h	/^class Pos {$/;"	c
+Pos	src/base/pos.cpp	/^Pos::Pos(const SizeType x_, const SizeType y_) : x(x_), y(y_) {}$/;"	f	class:Pos
+RED	include/util/console.h	/^    RED,$/;"	e	enum:ConsoleColorType
+RIGHT	include/base/direction.h	/^    RIGHT,$/;"	e	enum:Direction
+RM	Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m
+Random	include/util/util.h	/^    Random() : engine((unsigned)std::time(nullptr)) {}$/;"	f	class:util::Random
+Random	include/util/util.h	/^class Random {$/;"	c	namespace:util
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SNAKE_BODY	include/base/point.h	/^        SNAKE_BODY,$/;"	e	enum:Point::Type
+SNAKE_DIRECTION_H	include/base/direction.h	2;"	d
+SNAKE_GAMECTRL_H	include/gamectrl.h	2;"	d
+SNAKE_HEAD	include/base/point.h	/^        SNAKE_HEAD,$/;"	e	enum:Point::Type
+SNAKE_MAP_H	include/base/map.h	2;"	d
+SNAKE_POINT_H	include/base/point.h	2;"	d
+SNAKE_POS_H	include/base/pos.h	2;"	d
+SNAKE_SNAKE_H	include/base/snake.h	2;"	d
+SNAKE_TAIL	include/base/point.h	/^        SNAKE_TAIL,$/;"	e	enum:Point::Type
+SNAKE_UTIL_H	include/util/util.h	2;"	d
+SUFFIXES	Makefile	/^SUFFIXES =$/;"	m
+SizeType	include/base/map.h	/^    typedef Pos::SizeType SizeType;$/;"	t	class:Map
+SizeType	include/base/pos.h	/^    typedef std::size_t SizeType;$/;"	t	class:Pos
+SizeType	include/base/snake.h	/^    typedef Map::SizeType SizeType;$/;"	t	class:Snake
+SizeType	include/gamectrl.h	/^    typedef Map::SizeType SizeType;$/;"	t	class:GameCtrl
+Snake	include/base/snake.h	/^class Snake {$/;"	c
+Snake	src/base/snake.cpp	/^Snake::Snake() {}$/;"	f	class:Snake
+TEST_PATH	include/base/point.h	/^        TEST_PATH$/;"	e	enum:Point::Type
+TEST_VISIT	include/base/point.h	/^        TEST_VISIT,$/;"	e	enum:Point::Type
+Type	include/base/point.h	/^    enum Type {$/;"	g	class:Point
+UP	include/base/direction.h	/^    UP,$/;"	e	enum:Direction
+ValueType	include/base/point.h	/^    typedef uint32_t ValueType;$/;"	t	class:Point
+WALL	include/base/point.h	/^        WALL,$/;"	e	enum:Point::Type
+WHITE	include/util/console.h	/^    WHITE,$/;"	e	enum:ConsoleColorType
+YELLOW	include/util/console.h	/^    YELLOW,$/;"	e	enum:ConsoleColorType
+addBody	src/base/snake.cpp	/^void Snake::addBody(const Pos &p) {$/;"	f	class:Snake
+backColor	include/util/console.h	/^    ConsoleColorType backColor;$/;"	m	struct:ConsoleColor
+backIntensified	include/util/console.h	/^    bool backIntensified;$/;"	m	struct:ConsoleColor
+bodies	include/base/snake.h	/^    std::list<Pos> bodies;$/;"	m	class:Snake
+buildHamilton	src/base/snake.cpp	/^void Snake::buildHamilton() {$/;"	f	class:Snake
+buildPath	src/base/snake.cpp	/^void Snake::buildPath(const Pos &from, const Pos &to, list<Direction> &path) const {$/;"	f	class:Snake
+clear	src/util/console.cpp	/^void Console::clear() {$/;"	f	class:Console
+content	include/base/map.h	/^    std::vector<std::vector<Point>> content;$/;"	m	class:Map
+createFood	src/base/map.cpp	/^void Map::createFood(const Pos &pos) {$/;"	f	class:Map
+createRandFood	src/base/map.cpp	/^void Map::createRandFood() {$/;"	f	class:Map
+dead	include/base/snake.h	/^    bool dead = false;$/;"	m	class:Snake
+decideNext	src/base/snake.cpp	/^void Snake::decideNext() {$/;"	f	class:Snake
+direc	include/base/snake.h	/^    Direction direc = NONE;$/;"	m	class:Snake
+dist	include/base/point.h	/^    ValueType dist;$/;"	m	class:Point
+distance	src/base/map.cpp	/^Map::SizeType Map::distance(const Pos &from, const Pos &to) {$/;"	f	class:Map
+draw	src/gamectrl.cpp	/^void GameCtrl::draw() {$/;"	f	class:GameCtrl
+drawMapContent	src/gamectrl.cpp	/^void GameCtrl::drawMapContent() const {$/;"	f	class:GameCtrl
+drawTestPoint	src/gamectrl.cpp	/^void GameCtrl::drawTestPoint(const Point &p, const ConsoleColor &consoleColor) const {$/;"	f	class:GameCtrl
+drawThread	include/gamectrl.h	/^    std::thread drawThread;      \/\/ Thread to draw the map$/;"	m	class:GameCtrl
+enableAI	include/gamectrl.h	/^    bool enableAI = true;$/;"	m	class:GameCtrl
+enableHamilton	include/gamectrl.h	/^    bool enableHamilton = true;$/;"	m	class:GameCtrl
+enableHamilton	src/base/snake.cpp	/^void Snake::enableHamilton() {$/;"	f	class:Snake
+engine	include/util/util.h	/^    RandEngine engine;$/;"	m	class:util::Random
+exitGame	src/gamectrl.cpp	/^void GameCtrl::exitGame(const std::string &msg) {$/;"	f	class:GameCtrl
+exitGameErr	src/gamectrl.cpp	/^void GameCtrl::exitGameErr(const std::string &err) {$/;"	f	class:GameCtrl
+findMaxPath	src/base/snake.cpp	/^void Snake::findMaxPath(const Pos &from, const Pos &to, list<Direction> &path) {$/;"	f	class:Snake
+findMaxPathToTail	src/base/snake.cpp	/^void Snake::findMaxPathToTail(list<Direction> &path) {$/;"	f	class:Snake
+findMinPath	src/base/snake.cpp	/^void Snake::findMinPath(const Pos &from, const Pos &to, list<Direction> &path) {$/;"	f	class:Snake
+findMinPathToFood	src/base/snake.cpp	/^void Snake::findMinPathToFood(list<Direction> &path) {$/;"	f	class:Snake
+findPathTo	src/base/snake.cpp	/^void Snake::findPathTo(const int pathType, const Pos &goal, list<Direction> &path) {$/;"	f	class:Snake
+food	include/base/map.h	/^    Pos food;$/;"	m	class:Map
+foreColor	include/util/console.h	/^    ConsoleColorType foreColor;$/;"	m	struct:ConsoleColor
+foreIntensified	include/util/console.h	/^    bool foreIntensified;$/;"	m	struct:ConsoleColor
+fps	include/gamectrl.h	/^    double fps = 60.0;$/;"	m	class:GameCtrl
+getAdj	src/base/pos.cpp	/^Pos Pos::getAdj(const Direction d) const {$/;"	f	class:Pos
+getAllAdj	src/base/pos.cpp	/^std::vector<Pos> Pos::getAllAdj() const {$/;"	f	class:Pos
+getColCount	src/base/map.cpp	/^Map::SizeType Map::getColCount() const {$/;"	f	class:Map
+getDirection	src/base/snake.cpp	/^Direction Snake::getDirection() const {$/;"	f	class:Snake
+getDirectionTo	src/base/pos.cpp	/^Direction Pos::getDirectionTo(const Pos &p) const {$/;"	f	class:Pos
+getDist	src/base/point.cpp	/^Point::ValueType Point::getDist() const {$/;"	f	class:Point
+getDistance	include/util/util.h	/^SizeType getDistance(const SizeType ori, const SizeType x, const SizeType size) {$/;"	f	namespace:util
+getEmptyPoints	src/base/map.cpp	/^vector<Pos> Map::getEmptyPoints() const {$/;"	f	class:Map
+getFood	src/base/map.cpp	/^const Pos& Map::getFood() const {$/;"	f	class:Map
+getHead	src/base/snake.cpp	/^const Pos& Snake::getHead() const {$/;"	f	class:Snake
+getIdx	src/base/point.cpp	/^Point::ValueType Point::getIdx() const {$/;"	f	class:Point
+getInstance	include/util/util.h	/^    static Random<>* getInstance() {$/;"	f	class:util::Random
+getInstance	src/gamectrl.cpp	/^GameCtrl* GameCtrl::getInstance() {$/;"	f	class:GameCtrl
+getParent	src/base/point.cpp	/^Pos Point::getParent() const {$/;"	f	class:Point
+getPoint	src/base/map.cpp	/^Point& Map::getPoint(const Pos &p) {$/;"	f	class:Map
+getPoint	src/base/map.cpp	/^const Point& Map::getPoint(const Pos &p) const {$/;"	f	class:Map
+getRowCount	src/base/map.cpp	/^Map::SizeType Map::getRowCount() const {$/;"	f	class:Map
+getSize	src/base/map.cpp	/^Map::SizeType Map::getSize() const {$/;"	f	class:Map
+getTail	src/base/snake.cpp	/^const Pos& Snake::getTail() const {$/;"	f	class:Snake
+getType	src/base/point.cpp	/^Point::Type Point::getType() const {$/;"	f	class:Point
+getX	src/base/pos.cpp	/^Pos::SizeType Pos::getX() const {$/;"	f	class:Pos
+getY	src/base/pos.cpp	/^Pos::SizeType Pos::getY() const {$/;"	f	class:Pos
+getch	src/util/console.cpp	/^char Console::getch() {$/;"	f	class:Console
+hamiltonEnabled	include/base/snake.h	/^    bool hamiltonEnabled = false;$/;"	m	class:Snake
+hasFood	src/base/map.cpp	/^bool Map::hasFood() const {$/;"	f	class:Map
+idx	include/base/point.h	/^    ValueType idx;$/;"	m	class:Point
+info_arch	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_version	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+init	src/gamectrl.cpp	/^void GameCtrl::init() {$/;"	f	class:GameCtrl
+initFiles	src/gamectrl.cpp	/^void GameCtrl::initFiles() {$/;"	f	class:GameCtrl
+initMap	src/gamectrl.cpp	/^void GameCtrl::initMap() {$/;"	f	class:GameCtrl
+initSnake	src/gamectrl.cpp	/^void GameCtrl::initSnake() {$/;"	f	class:GameCtrl
+isAllBody	src/base/map.cpp	/^bool Map::isAllBody() const {$/;"	f	class:Map
+isDead	src/base/snake.cpp	/^bool Snake::isDead() const {$/;"	f	class:Snake
+isEmpty	src/base/map.cpp	/^bool Map::isEmpty(const Pos &p) const {$/;"	f	class:Map
+isEmptyNotVisit	src/base/map.cpp	/^bool Map::isEmptyNotVisit(const Pos &p) const {$/;"	f	class:Map
+isInside	src/base/map.cpp	/^bool Map::isInside(const Pos &p) const {$/;"	f	class:Map
+isSafe	src/base/map.cpp	/^bool Map::isSafe(const Pos &p) const {$/;"	f	class:Map
+isTestEnabled	src/base/map.cpp	/^bool Map::isTestEnabled() const {$/;"	f	class:Map
+isVisit	src/base/point.cpp	/^bool Point::isVisit() const {$/;"	f	class:Point
+kbhit	src/util/console.cpp	/^int Console::kbhit() {$/;"	f	class:Console
+keyboard	src/gamectrl.cpp	/^void GameCtrl::keyboard() {$/;"	f	class:GameCtrl
+keyboardMove	src/gamectrl.cpp	/^void GameCtrl::keyboardMove(Snake &s, const Direction d) {$/;"	f	class:GameCtrl
+keyboardThread	include/gamectrl.h	/^    std::thread keyboardThread;  \/\/ Thread to execute keyboard instructions$/;"	m	class:GameCtrl
+main	CMakeFiles/2.8.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	src/main.cpp	/^int main() {$/;"	f
+mainLoop	src/gamectrl.cpp	/^void GameCtrl::mainLoop() {$/;"	f	class:GameCtrl
+map	include/base/snake.h	/^    Map *map = nullptr;$/;"	m	class:Snake
+map	include/gamectrl.h	/^    Map *map = nullptr;$/;"	m	class:GameCtrl
+mapColCnt	include/gamectrl.h	/^    SizeType mapColCnt = 10;$/;"	m	class:GameCtrl
+mapRowCnt	include/gamectrl.h	/^    SizeType mapRowCnt = 10;$/;"	m	class:GameCtrl
+move	src/base/snake.cpp	/^void Snake::move() {$/;"	f	class:Snake
+move	src/base/snake.cpp	/^void Snake::move(const std::list<Direction> &path) {$/;"	f	class:Snake
+moveInterval	include/gamectrl.h	/^    long moveInterval = 30;$/;"	m	class:GameCtrl
+moveSnake	src/gamectrl.cpp	/^void GameCtrl::moveSnake() {$/;"	f	class:GameCtrl
+movementFile	include/gamectrl.h	/^    FILE *movementFile = nullptr;  \/\/ File to save snake movements$/;"	m	class:GameCtrl
+mutexExit	include/gamectrl.h	/^    std::mutex mutexExit;  \/\/ Mutex of exitGame()$/;"	m	class:GameCtrl
+mutexMove	include/gamectrl.h	/^    std::mutex mutexMove;  \/\/ Mutex of moveSnake()$/;"	m	class:GameCtrl
+nextDouble	include/util/util.h	/^    double nextDouble(const double min = 0, const double max = 1) {$/;"	f	class:util::Random
+nextInt	include/util/util.h	/^    Integer nextInt(const Integer min, const Integer max) {$/;"	f	class:util::Random
+operator !=	src/base/pos.cpp	/^bool operator!=(const Pos &a, const Pos &b) {$/;"	f
+operator +	src/base/pos.cpp	/^Pos operator+(const Pos &a, const Pos &b) {$/;"	f
+operator ==	src/base/pos.cpp	/^bool operator==(const Pos &a, const Pos &b) {$/;"	f
+parent	include/base/point.h	/^    Pos parent;$/;"	m	class:Point
+pause	include/gamectrl.h	/^    volatile bool pause = false;  \/\/ Control pause\/resume game$/;"	m	class:GameCtrl
+printMsg	src/gamectrl.cpp	/^void GameCtrl::printMsg(const std::string &msg) {$/;"	f	class:GameCtrl
+recordMovements	include/gamectrl.h	/^    bool recordMovements = true;$/;"	m	class:GameCtrl
+removeFood	src/base/map.cpp	/^void Map::removeFood() {$/;"	f	class:Map
+removeTail	src/base/snake.cpp	/^void Snake::removeTail() {$/;"	f	class:Snake
+resetColor	src/util/console.cpp	/^void Console::resetColor(const WORD attr) {$/;"	f	class:Console
+run	src/gamectrl.cpp	/^int GameCtrl::run() {$/;"	f	class:GameCtrl
+runMainThread	include/gamectrl.h	/^    volatile bool runMainThread = true;  \/\/ Switch of the main thread$/;"	m	class:GameCtrl
+runSubThread	include/gamectrl.h	/^    volatile bool runSubThread = true;   \/\/ Switch of sub-threads$/;"	m	class:GameCtrl
+runTest	include/gamectrl.h	/^    bool runTest = false;$/;"	m	class:GameCtrl
+saveMapContent	src/gamectrl.cpp	/^void GameCtrl::saveMapContent() const {$/;"	f	class:GameCtrl
+setColor	src/util/console.cpp	/^WORD Console::setColor(const ConsoleColor &consoleColor) {$/;"	f	class:Console
+setCursor	src/util/console.cpp	/^void Console::setCursor(const int x, const int y) {$/;"	f	class:Console
+setDirection	src/base/snake.cpp	/^void Snake::setDirection(const Direction &d) {$/;"	f	class:Snake
+setDist	src/base/point.cpp	/^void Point::setDist(const ValueType dist_) {$/;"	f	class:Point
+setEnableAI	src/gamectrl.cpp	/^void GameCtrl::setEnableAI(const bool enableAI_) {$/;"	f	class:GameCtrl
+setEnableHamilton	src/gamectrl.cpp	/^void GameCtrl::setEnableHamilton(const bool enableHamilton_) {$/;"	f	class:GameCtrl
+setFPS	src/gamectrl.cpp	/^void GameCtrl::setFPS(const double fps_) {$/;"	f	class:GameCtrl
+setIdx	src/base/point.cpp	/^void Point::setIdx(const ValueType index_) {$/;"	f	class:Point
+setMap	src/base/snake.cpp	/^void Snake::setMap(Map *const m) {$/;"	f	class:Snake
+setMapCol	src/gamectrl.cpp	/^void GameCtrl::setMapCol(const SizeType n) {$/;"	f	class:GameCtrl
+setMapRow	src/gamectrl.cpp	/^void GameCtrl::setMapRow(const SizeType n) {$/;"	f	class:GameCtrl
+setMoveInterval	src/gamectrl.cpp	/^void GameCtrl::setMoveInterval(const long ms) {$/;"	f	class:GameCtrl
+setParent	src/base/point.cpp	/^void Point::setParent(const Pos &p_) {$/;"	f	class:Point
+setPointTypeWithDelay	src/base/map.cpp	/^void Map::setPointTypeWithDelay(const Pos &p, const Point::Type type) {$/;"	f	class:Map
+setRecordMovements	src/gamectrl.cpp	/^void GameCtrl::setRecordMovements(const bool b) {$/;"	f	class:GameCtrl
+setRunTest	src/gamectrl.cpp	/^void GameCtrl::setRunTest(const bool b) {$/;"	f	class:GameCtrl
+setTestEnabled	src/base/map.cpp	/^void Map::setTestEnabled(const bool e) {$/;"	f	class:Map
+setType	src/base/point.cpp	/^void Point::setType(Type type_) {$/;"	f	class:Point
+setVisit	src/base/point.cpp	/^void Point::setVisit(const bool v) {$/;"	f	class:Point
+setX	src/base/pos.cpp	/^void Pos::setX(const SizeType x_) {$/;"	f	class:Pos
+setY	src/base/pos.cpp	/^void Pos::setY(const SizeType y_) {$/;"	f	class:Pos
+showTestPath	src/base/map.cpp	/^void Map::showTestPath(const Pos &start, const list<Direction> &path) {$/;"	f	class:Map
+showTestPos	src/base/map.cpp	/^void Map::showTestPos(const Pos &p) {$/;"	f	class:Map
+shuffle	include/util/util.h	/^    void shuffle(RanIt beg, RanIt end) {$/;"	f	class:util::Random
+size	include/base/map.h	/^    SizeType size;$/;"	m	class:Map
+sleep	include/util/util.h	/^inline void sleep(const long ms) {$/;"	f	namespace:util
+sleepFPS	src/gamectrl.cpp	/^void GameCtrl::sleepFPS() const {$/;"	f	class:GameCtrl
+snake	include/gamectrl.h	/^    Snake snake;$/;"	m	class:GameCtrl
+startSubThreads	src/gamectrl.cpp	/^void GameCtrl::startSubThreads() {$/;"	f	class:GameCtrl
+swap	include/util/util.h	/^void swap(T &a, T &b) {$/;"	f	namespace:util
+test	src/gamectrl.cpp	/^void GameCtrl::test() {$/;"	f	class:GameCtrl
+testEnabled	include/base/map.h	/^    bool testEnabled = false;$/;"	m	class:Map
+testFood	src/gamectrl.cpp	/^void GameCtrl::testFood() {$/;"	f	class:GameCtrl
+testHamilton	src/base/snake.cpp	/^void Snake::testHamilton() {$/;"	f	class:Snake
+testHamilton	src/gamectrl.cpp	/^void GameCtrl::testHamilton() {$/;"	f	class:GameCtrl
+testMaxPath	src/base/snake.cpp	/^void Snake::testMaxPath(const Pos &from, const Pos &to, std::list<Direction> &path) {$/;"	f	class:Snake
+testMinPath	src/base/snake.cpp	/^void Snake::testMinPath(const Pos &from, const Pos &to, std::list<Direction> &path) {$/;"	f	class:Snake
+testSearch	src/gamectrl.cpp	/^void GameCtrl::testSearch() {$/;"	f	class:GameCtrl
+toString	include/util/util.h	/^std::string toString(const T &obj) {$/;"	f	namespace:util
+toString	src/base/pos.cpp	/^std::string Pos::toString() const {$/;"	f	class:Pos
+type	include/base/point.h	/^    Type type = EMPTY;$/;"	m	class:Point
+util	include/util/util.h	/^namespace util {$/;"	n
+visit	include/base/point.h	/^    bool visit;$/;"	m	class:Point
+write	src/util/console.cpp	/^void Console::write(const std::string &str) {$/;"	f	class:Console
+writeWithColor	src/util/console.cpp	/^void Console::writeWithColor(const std::string &str, const ConsoleColor &consoleColor) {$/;"	f	class:Console
+x	include/base/pos.h	/^    SizeType x;$/;"	m	class:Pos
+y	include/base/pos.h	/^    SizeType y;$/;"	m	class:Pos
+~GameCtrl	src/gamectrl.cpp	/^GameCtrl::~GameCtrl() {$/;"	f	class:GameCtrl
+~Map	src/base/map.cpp	/^Map::~Map() {}$/;"	f	class:Map
+~Point	src/base/point.cpp	/^Point::~Point() {}$/;"	f	class:Point
+~Pos	src/base/pos.cpp	/^Pos::~Pos() {}$/;"	f	class:Pos
+~Random	include/util/util.h	/^    ~Random() {}$/;"	f	class:util::Random
+~Snake	src/base/snake.cpp	/^Snake::~Snake() {}$/;"	f	class:Snake
